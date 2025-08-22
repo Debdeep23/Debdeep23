@@ -1,48 +1,79 @@
-<div id="header" align="center">
-<img src="https://www.google.com/search?q=https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Debdeep23/Debdeep23/main/banner.gif" alt="Introduction Banner">
+</p>
 
-<div id="badges" align="center">
-<a href="mailto:dnaha18@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+---
+
+- 🔭 My current focus is on **distributed systems** and **applied machine learning**, exploring how to build robust and scalable backend services.
+
+- 🌱 Prior to my Master's at **NYU Courant**, I was a Software Engineer at **Cisco**, where I developed features for the Identity Services Engine, a large-scale enterprise security platform. I worked across the stack, building scalable REST APIs in **Java/Spring** and contributing to a **React-based UI**.
+
+- 👨‍💻 All of my projects are available on this profile.
+---
+
+## Languages and Tools
+
+<p align="left">
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
+  </a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+  </a>
+   <a href="https://www.java.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  </a>
+   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
+  </a>
+   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
+  </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  </a>
+  <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
+  </a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+  </a>
+   <a href="https://redis.io" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/>
+  </a>
+   <a href="https://spring.io/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/>
+  </a>
+</p>
+
+---
+
+## Let's connect
+
+<p align="left">
+<a href="https://linkedin.com/in/debdeep-naha-980521191" target="blank">
+<img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="debdeep-naha-linkedin" />
 </a>
-<a href="https://www.google.com/search?q=https://linkedin.com/in/debdeep-naha-980521191">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn Badge"/>
+<a href="mailto:dnaha18@gmail.com" target="blank">
+<img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="debdeep-naha-gmail" />
 </a>
-</div>
+</p>
 
-<h1 align="center">
-Hey there 👋, I'm Debdeep Naha
-</h1>
+---
 
-<h3 align="center">
-A Software Engineer building scalable backends and exploring ML systems.
-</h3>
+## My GitHub Contributions & Stats
 
-👨‍💻 About Me :
-I'm a Master's student in Computer Science at New York University's Courant Institute of Mathematical Sciences. My background is in building and scaling backend services for enterprise systems. I'm passionate about distributed systems, machine learning, and understanding how complex software works from the ground up.
-
-🔭 I’m currently working on projects involving ML model implementation and distributed systems design.
-
-🌱 I’m currently learning more about low-latency systems and advanced ML architectures.
-
-💬 Ask me about backend development, system design, or anything related to Java and Python.
-
-📫 How to reach me: dnaha18@gmail.com
-
-🛠️ Languages and Tools :
-<div>
-<img src="https://www.google.com/search?q=https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-<img src="https://www.google.com/search?q=https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-<img src="https://www.google.com/search?q=https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
-<img src="https://www.google.com/search?q=https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-<img src="https://www.google.com/search?q=https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
-<img src="https://www.google.com/search?q=https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-<img src="https://www.google.com/search?q=https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-<img src="https://www.google.com/search?q=https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original-wordmark.svg" title="PyTorch" alt="Pytorch" width="40" height="40"/>&nbsp;
-<img src="https://www.google.com/search?q=https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
-<img src="https://www.google.com/search?q=https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
-<img src="https://www.google.com/search?q=https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" title="Redis" alt="Redis" width="40" height="40"/>&nbsp;
-<img src="https://www.google.com/search?q=https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
-</div>
-
+<p align="center"> 
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Debdeep23&theme=dracula" alt="debdeep-naha-streak" />
+</p>
+<br>
+<p align="center">
+  <img align="center" width="48%" src="https://github-readme-stats.vercel.app/api?username=Debdeep23&show_icons=true&theme=dracula&hide_border=true" />
+  <img align="center" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Debdeep23&layout=compact&theme=dracula&hide_border=true" />
+</p>
